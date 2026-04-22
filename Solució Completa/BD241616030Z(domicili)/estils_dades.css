@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #323335;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    margin: 20px 0 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.top-right-container {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.add-domicili-form {
+    margin: 0;
+}
+
+.otro-archivo-btn {
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000000;
+    border: 1px solid #000000;
+    cursor: pointer;
+}
+
+.otro-archivo-btn:hover {
+    background-color: #323335;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.dades-container {
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.comprador-container,
+.domicilio-container {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+    text-align: center;
+}
+
+.comprador-container h2,
+.domicilio-container h2 {
+    color: #323335;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.separator {
+    width: 100%;
+    margin: 20px 0;
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+label {
+    font-family: Arial, sans-serif;
+    color: #323335;
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 50%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[readonly] {
+    background-color: #eee;
+}
+
+
+
