@@ -383,3 +383,7 @@ Estimazon es un proyecto académico especialmente sólido para mostrar tres capa
 Aunque el repositorio todavía necesita una pequeña capa de profesionalización para quedar listo de cara a producción o portfolio técnico, el núcleo del trabajo está bien planteado: hay un dominio bien pensado, una implementación funcional y un uso interesante de SQL avanzado.
 
 Si lo publicas en GitHub acompañado de este README y una pequeña reorganización de carpetas, puede presentarse muy bien como un proyecto universitario de **backend + base de datos + lógica de negocio**.
+
+## Autores
+
+Proyecto desarrollado por **Jordi Florit Ensenyat**, **Pau Girón Rodríguez**, **Jaume Cantallops Comas** y **Josep Gabriel Fornés Reynes**.
